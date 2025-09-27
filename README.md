@@ -53,12 +53,14 @@ Ce dépôt rassemble l’ensemble des documents liés au cours *Méthodes quanti
 
 ## Communication
 
-Un espace Slack sera utilisé pour :  
-- poser des questions,  
+Un espace Slack est mis en place pour le cours :  
+
+🔗 [Accéder au Slack du cours](https://iepfontainebleauupec.slack.com/archives/C09G9K2HU14)  
+
+Cet espace permet de :  
+- poser vos questions,  
 - suivre les annonces,  
 - échanger autour des exercices.  
-
-Le lien d’invitation sera communiqué en début de semestre.  
 
 ---
 
