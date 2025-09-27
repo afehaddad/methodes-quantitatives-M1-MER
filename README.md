@@ -25,12 +25,12 @@
 
 Ce dépôt rassemble l’ensemble des documents liés au cours *Méthodes quantitatives* :  
 
-- 📑 [**syllabus**](./syllabus) : plan détaillé du cours  
-- 📊 [**slides**](./slides) : présentations des séances  
-- 📝 [**exercices**](./exercices) : travaux pratiques et corrigés  
-- 📂 [**donnees**](./donnees_codes) : jeux de données utilisés  
-- 📚 [**ressources**](./ressources) : documents et outils complémentaires  
-- 📖 [**lectures**](./lectures) : articles et références obligatoires  
+-  [**syllabus**](./syllabus) : plan détaillé du cours  
+-  [**slides**](./slides) : présentations des séances  
+-  [**exercices**](./exercices) : travaux pratiques et corrigés  
+-  [**donnees**](./donnees_codes) : jeux de données utilisés  
+-  [**ressources**](./ressources) : documents et outils complémentaires  
+-  [**lectures**](./lectures) : articles et références obligatoires  
 
 ---
 
