@@ -1,4 +1,4 @@
-# Introduction à R  pour le 1403----
+# Introduction à R -
 # Ce script est conçu pour une première séance pratique (lab session).
 # Objectif : découvrir R, manipuler des objets, explorer un jeu de données,
 # et produire des statistiques descriptives simples.
@@ -110,7 +110,6 @@ ggplot(circo, aes(x = Circonscription, y = Participation)) +
   labs(title = "Participation électorale par circonscription",
        x = "Circonscription", y = "Taux de participation (%)") +
   theme_minimal()
-
 
 # 7. Statistiques descriptives ----
 
